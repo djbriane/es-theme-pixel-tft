@@ -12,6 +12,12 @@ EmulationStation/RetroPie Theme 'Pixel TFT' v0.2 by [Rookervik](https://retropie
 
 Thanks to muriani for the super-sexy Sega CD logo!
 
+## Preview Image
+
+![Pixel TFT Preview Image](https://retropie.org.uk/forum/uploads/files/1471716197295-img_3525-resized.jpg)
+
+*Image Credit:* [gamer85](https://retropie.org.uk/forum/topic/2700/low-resolution-theme/61)
+
 ## License
 
 ALLOWED:
